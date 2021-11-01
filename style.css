@@ -1,0 +1,89 @@
+body {
+  color: white;
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #345B63;
+  margin: 0;
+  padding: 20px 0 20px;
+}
+
+.git{
+  float: left;
+  margin-left: 20px;
+}
+
+.middle-container1{
+  position: relative;
+}
+
+.sidebar{
+  background-color:  #334756;
+  border-radius: 25px;
+  border: 1px;
+  position: absolute;
+  margin: 60px;
+  height: 500px;
+  width: 300px;
+}
+
+.searchbar{
+  background-color:  #334756;
+  border-radius: 25px;
+  border: 1px;
+  position: absolute;
+  margin: 60px auto;
+  height: 60px;
+  width: 500px;
+  line-height: 2;
+  color: white;
+  size: 2em;
+}
+
+.box1{
+  background-color:  #334756;
+  border-radius: 25px;
+  position: absolute;
+  margin: 200px;
+  margin-left: 600px;
+  height: 150px;
+  width: 150px;
+}
+
+.box2{
+  background-color:  #334756;
+  border-radius: 25px;
+  position: absolute;
+  margin: 200px;
+  margin-left: 850px;
+  height: 150px;
+  width: 150px;
+}
+
+.box3{
+  background-color:  #334756 ;
+  border-radius: 25px;
+  position: absolute;
+  margin: 200px;
+  margin-left: 1100px;
+  height: 150px;
+  width: 150px;
+}
+
+.bottom-container{
+  background-color:  #334756;
+  border-radius: 25px;
+  position: absolute;
+  margin: 400px;
+  margin-left: 600px;
+  height: 150px;
+  width: 650px;
+}
